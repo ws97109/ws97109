@@ -14,13 +14,13 @@
 - 雙重界面設計：駕駛者智慧導航系統 + 管理者監控中心
 - 混合預測架構，結合傳統物理模型與深度學習模型
 
-**使用技術：** Python, FastAPI, Next.js, TensorFlow, TypeScript, 圖神經網絡, 時空預測
+**使用技術：** Python, FastAPI, TensorFlow, TypeScript, 圖神經網絡, 時空預測
 
 ---
 
 ### 🃏 [德州撲克 AI 決策輔助系統](https://github.com/ws97109/poker_game_ai)
 
-基於深度學習的德州撲克遊戲與 AI 決策系統，整合了先進的影像識別技術、強化學習演算法與 Game Theory Optimal 策略分析。
+基於深度學習的德州撲克遊戲與 AI 決策系統，整合了先進的影像識別技術、強化學習演算法策略分析。
 
 **核心特色：**
 - 牌面與籌碼識別系統
@@ -44,7 +44,7 @@
 - 支援批量生成，一次產出多張高品質圖像
 - 基於 Gradio 的友善 Web 介面，操作直觀簡便
 
-**使用技術：** Python, Stable Diffusion, Gradio, Groq API, Diffusers, PyTorch
+**使用技術：** Python, Stable Diffusion, Gradio, Groq API, PyTorch
 
 ---
 
@@ -82,29 +82,25 @@
 - Python, Java, JavaScript, HTML/CSS, R, TypeScript
 
 **人工智慧與機器學習**
-- TensorFlow, PyTorch, 深度學習, 卷積神經網絡(CNN), 強化學習
-- 時空預測模型, 圖神經網絡, Transformer, 自然語言處理
+- TensorFlow, Transformer, 卷積神經網絡(CNN)
+- 自然語言處理，強化學習, 深度學習
 
 **影像與圖像處理**
-- Stable Diffusion, 影像識別, 電腦視覺, OpenCV
-- Gradio, Diffusers, 圖像生成模型
+- Stable Diffusion, 影像識別, OpenCV
+- Gradio, 圖像生成模型
 
 **網頁開發**
-- FastAPI, Flask, Next.js, React, JavaFX
-- 前後端分離架構, RESTful API, 響應式設計
+- FastAPI, Flask, Vue
+- 前後端分離架構, RESTful API
 
 **資料科學與統計**
 - 統計分析, 主成分分析(PCA), 因素分析, 典型相關分析
 - 數據視覺化, 多變量統計, 實驗設計
 
 **資料庫與工具**
-- MySQL, Git, Docker, Linux
-- 資料處理, ETL, 版本控制
+- MySQL, Git, Docker
 
-**其他技術**
-- 博弈理論, Game Theory Optimal(GTO), 納什均衡
-- 系統架構設計, API 整合, 雲端部署
 
 ---
 
-我專注於將學術研究與實際應用相結合，致力於開發具有實用價值的智慧系統。每個專案都體現了我對技術創新的追求，以及將複雜理論轉化為可用產品的能力。如果您對任何專案感興趣或有合作意願，歡迎聯繫我！
+我專注於將學術研究與實際應用相結合，致力於開發具有實用價值的智慧系統。每個專案都體現了我對技術創新的追求，以及將複雜理論轉化為可用產品的能力。
