@@ -17,7 +17,7 @@
 **使用技術：** Python, FastAPI, TensorFlow, TypeScript, 圖神經網絡, 時空預測
 
 ---
-###🃏 [強化學習德州撲克 AI 系統](https://github.com/ws97109/poker_ai)
+### 🃏 [強化學習德州撲克 AI 系統](https://github.com/ws97109/poker_ai)
 基於深度強化學習的智慧撲克 AI 系統，運用 DQN 演算法創建具備專業決策能力的虛擬對手，整合完整的訓練框架與網頁遊戲平台。
 核心特色：
 
