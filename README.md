@@ -17,8 +17,22 @@
 **使用技術：** Python, FastAPI, TensorFlow, TypeScript, 圖神經網絡, 時空預測
 
 ---
+###🃏 [強化學習德州撲克 AI 系統](https://github.com/ws97109/poker_ai)
+基於深度強化學習的智慧撲克 AI 系統，運用 DQN 演算法創建具備專業決策能力的虛擬對手，整合完整的訓練框架與網頁遊戲平台。
+核心特色：
 
-### 🃏 [德州撲克 AI 決策輔助系統](https://github.com/ws97109/poker_game_ai)
+採用深度 Q 學習 (DQN) 演算法，具備 experience replay 和 target network 機制
+支援 2-7 個玩家的多人德州撲克對戰，靈活的遊戲配置系統
+智慧ε-greedy 探索策略，探索率從 0.9 自適應衰減至 0.1，平衡探索與利用
+GPU 自動偵測與加速訓練，支援多進程並行運算提升效率
+完整的遊戲邏輯實現：牌型評分、下注輪次、分池機制、位置管理
+創新獎勵函數設計，結合遊戲結果、策略評估與風險管理
+網頁遊戲介面，提供即時對戰與視覺化遊戲體驗
+豐富的訓練統計與模型分析工具，包含勝率追蹤、獎勵變化趨勢
+
+使用技術： Python, TensorFlow, Keras, 深度強化學習, DQN, Experience Replay, HTML/JavaScript, 博弈理論
+
+### 🃏 [德州撲克 AI 決策輔助系統](https://github.com/ws97109/poker_analyze)
 
 基於深度學習的德州撲克遊戲與 AI 決策系統，整合了先進的影像識別技術、強化學習演算法策略分析。
 
