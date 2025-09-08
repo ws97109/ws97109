@@ -18,22 +18,22 @@
 
 ---
 
-### 🃏 [德州撲克 AI 決策輔助系統](https://github.com/ws97109/Java-Poker)
+### 🃏 [德州撲克 AI 決策輔助系統](https://github.com/ws97109/poker_game_ai)
 
 基於深度學習的德州撲克遊戲與 AI 決策系統，整合了先進的影像識別技術、強化學習演算法與 Game Theory Optimal 策略分析。
 
 **核心特色：**
-- 95% 以上準確率的牌面與籌碼識別系統
+- 牌面與籌碼識別系統
 - 基於卷積神經網絡的 AI 對手，具備接近專業玩家水準的決策能力
 - 完整的單挑德州撲克對戰平台，配備即時策略分析功能
 - 運用深度強化學習技術，能夠分析手牌強度、位置價值及籌碼深度
 - 全面的遊戲歷史記錄與策略效果追蹤系統
 
-**使用技術：** Java, JavaFX, Python, CNN, 強化學習, 影像識別, MySQL, 博弈理論
+**使用技術：** Python, CNN, 強化學習, 影像識別, MySQL, 博弈理論
 
 ---
 
-### 🎨 [AI 圖像生成器](https://github.com/ws97109/AI-Image-Generator)
+### 🎨 [AI 圖像生成器](https://github.com/ws97109/generate_images_web)
 
 基於 Stable Diffusion 的多模型圖像生成工具，支援中文輸入自動翻譯，提供直觀的 Web 介面進行高品質圖像創作。
 
