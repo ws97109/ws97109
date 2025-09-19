@@ -93,11 +93,11 @@ GPU 自動偵測與加速訓練，支援多進程並行運算提升效率
 ## 🛠️ 技術專長
 
 **程式語言**
-- Python, Java, JavaScript, HTML/CSS, R, TypeScript
+- Python, Java, C++, JS, HTML/CSS, TypeScript, R, SAS 
 
 **人工智慧與機器學習**
 - TensorFlow, Transformer, 卷積神經網絡(CNN)
-- 自然語言處理，強化學習, 深度學習,RAG
+- 自然語言處理,強化學習, 深度學習,RAG
 
 **影像與圖像處理**
 - Stable Diffusion, 影像識別, OpenCV
