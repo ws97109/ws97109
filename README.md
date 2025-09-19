@@ -52,7 +52,7 @@ GPU 自動偵測與加速訓練，支援多進程並行運算提升效率
 基於 Stable Diffusion 的多模型圖像生成工具，支援中文輸入自動翻譯，提供直觀的 Web 介面進行高品質圖像創作。
 
 **核心特色：**
-- 整合三種先進模型：MajicMIX Realistic v6、Realistic Vision V5.1、Stable Diffusion v1.5
+- 整合三種模型：MajicMIX Realistic v6、Realistic Vision V5.1、Stable Diffusion v1.5
 - 智慧中文支援，自動翻譯中文提示詞為英文
 - 豐富的參數調整選項：自訂種子、圖像尺寸、生成步數等
 - 支援批量生成，一次產出多張高品質圖像
