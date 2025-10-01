@@ -1,4 +1,11 @@
 # 👋 你好！我是李昇峰
+
+<div align="right">
+
+[![English](https://img.shields.io/badge/lang-English-blue.svg)](README.en.md)
+
+</div>
+
 我是一名就讀於淡江大學統計學系數據科學碩士班的研究生，研究於人工智慧、深度學習與數據科學領域。我熱衷於將理論研究轉化為實際應用，透過技術創新解決真實世界的問題。
 
 ## 📚 我的作品集
