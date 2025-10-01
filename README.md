@@ -2,7 +2,7 @@
 
 <div align="right">
 
-[![繁體中文](https://img.shields.io/badge/lang-繁體中文-red.svg)](README.md)
+[![繁體中文](https://img.shields.io/badge/lang-繁體中文-red.svg)](README_cn.md)
 
 </div>
 
