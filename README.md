@@ -24,10 +24,10 @@
 🥈 **高公局國道智能競賽** - 亞軍
 
 ### 🎯 專長領域
-- 🧠 深度學習 & 強化學習
+- 🧠 深度學習 & 強化學習 
 - 🌐 全端系統開發
 - 📈 數據分析 & 視覺化
-- 🚗 智慧交通系統
+- 🎴 影像識別
 
 </td>
 <td width="40%">
@@ -50,11 +50,10 @@
 ### 🏦 台新新光金控 - 全端工程師
 
 - 💻 網路銀行系統前後端開發與優化
-- 🔧 系統測試、維護與效能調校
-- ☁️ 部署系統至雲端平台，提升可用性
-- 🤝 跨團隊協作，開發金融科技解決方案
+- 🔧 系統測試、維護
+- ☁️ 部署系統至雲端平台
 
-**技術棧：** Python · JavaScript · Vue.js · FastAPI · MySQL · Docker
+**技術棧：** Python · Java · Vue.js · K8s · Azure 
 
 ---
 
@@ -101,9 +100,7 @@
 ### 程式語言
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
 ### AI & 機器學習
@@ -142,14 +139,30 @@
 
 **核心特色：**
 - 🧠 MT-STNet 多任務神經網絡 - 同步預測流量、速度、密度
-- ⚡ 毫秒級即時響應 - 震波檢測快速準確
+- ⚡ 毫秒級即時響應 - 交通車衝擊波檢測快速準確
 - 🎛️ 雙重界面設計 - 駕駛導航 + 管理監控
 - 🔮 混合預測架構 - 物理模型 + 深度學習
 
 **競賽成果：** 🥈 高公局國道智能競賽亞軍
 
 ---
+### 📊 網路行為研究
 
+[![GitHub](https://img.shields.io/badge/查看專案-181717?style=for-the-badge&logo=github)](https://github.com/ws97109/Internet-behavior)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-4285F4?style=flat-square)
+
+探討網路使用模式與霸凌現象的學術研究，運用多變量統計分析建立預測模型。
+
+**核心特色：**
+- 📈 大規模實證分析 - 672 份有效樣本
+- 🗺️ GAP 分類模型 - 行為模式分類
+- 🔍 PCA & 因素分析 - 行為特徵探討
+- 🔗 CCA 因果模型 - 行為與霸凌關聯
+
+**實務應用：** 網路素養教育政策、反霸凌策略制定、行為預測模型
+
+---
 ### 🃏 強化學習德州撲克 AI 系統
 
 [![GitHub](https://img.shields.io/badge/查看專案-181717?style=for-the-badge&logo=github)](https://github.com/ws97109/poker_ai)
@@ -160,27 +173,9 @@
 
 **核心特色：**
 - 🎯 DQN 演算法 - Experience Replay + Target Network
-- 👥 多人對戰系統 - 支援 2-7 人靈活配置
+- 👥 多人對戰系統 - 支援 2、7 人對戰訓練
 - 🧪 智慧探索策略 - ε-greedy 自適應衰減 (0.9→0.1)
 - 🎮 網頁遊戲介面 - 即時對戰 + 視覺化體驗
-- 📊 完整訓練視覺化 - 勝率追蹤、獎勵趨勢分析
-
----
-
-### 🃏 德州撲克 AI 決策輔助系統
-
-[![GitHub](https://img.shields.io/badge/查看專案-181717?style=for-the-badge&logo=github)](https://github.com/ws97109/poker_analyze)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-整合**影像識別**與**強化學習**的智慧撲克系統，提供即時策略分析與決策建議。
-
-**核心特色：**
-- 🎴 影像識別系統 - 自動辨識牌面與籌碼
-- 🤖 CNN AI 對手 - 專業級決策能力
-- 🎯 即時策略分析 - 手牌強度 + 位置價值評估
-- 📝 完整記錄系統 - 遊戲歷史與策略追蹤
 
 ---
 
@@ -215,24 +210,23 @@
 - 🧠 心理分析 - 精神狀態評估
 
 ---
+### 🃏 德州撲克 AI 決策輔助系統
 
-### 📊 網路行為研究
-
-[![GitHub](https://img.shields.io/badge/查看專案-181717?style=for-the-badge&logo=github)](https://github.com/ws97109/Internet-behavior)
+[![GitHub](https://img.shields.io/badge/查看專案-181717?style=for-the-badge&logo=github)](https://github.com/ws97109/poker_analyze)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Statistics](https://img.shields.io/badge/Statistics-4285F4?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-探討網路使用模式與霸凌現象的學術研究，運用多變量統計分析建立預測模型。
+整合**影像識別**與**強化學習**的智慧撲克系統，提供即時策略分析與決策建議。
 
 **核心特色：**
-- 📈 大規模實證分析 - 672 份有效樣本
-- 🗺️ GAP 分類模型 - 行為模式分類
-- 🔍 PCA & 因素分析 - 行為特徵探討
-- 🔗 CCA 因果模型 - 行為與霸凌關聯
-
-**實務應用：** 網路素養教育政策、反霸凌策略制定、行為預測模型
+- 🎴 影像識別系統 - 自動辨識牌面與籌碼
+- 🤖 DQN AI 對手 - 專業級決策能力
+- 🎯 即時策略分析 - 手牌強度 + 位置價值評估
+- 📝 完整記錄系統 - 遊戲歷史與策略追蹤
 
 ---
+
 
 ## 📊 GitHub 統計
 
@@ -290,6 +284,5 @@
 
 ---
 
-<sub>最後更新：2025年1月</sub>
 
 </div>
