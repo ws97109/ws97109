@@ -145,7 +145,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
-> **創新突破**：首創將地震學震波理論應用於交通流分析，結合深度學習與傳統交通理論，提供精確的交通震波檢測與智慧決策支援
+> **創新突破**：首創將地震學震波理論應用於交通流分析，結合深度學習與傳統交通理論，提供精確的交通震波檢測與RAG AI智慧決策支援
 
 <details>
 <summary><b>展開查看詳細資訊</b></summary>
@@ -185,26 +185,6 @@
 - 出發時間優化：基於震波預測的最佳出發建議
 - 替代路線規劃：動態路線推薦與影響評估
 - 管制策略建議：AI 驅動的交通管制決策支援
-
-#### 技術亮點
-
-**理論創新**
-- 首創將地震學震波傳播理論應用於交通分析
-- 參考 Indiana 州研究案例，後向震波速度 4.2 mph
-- 基於 59 個震波案例、200 小時壅塞觀測數據驗證
-
-**工程實踐**
-- 完整的 CI/CD 流程
-- Docker 容器化部署
-- Kubernetes 集群管理
-- Azure 雲端服務整合
-
-**性能指標**
-- API 響應時間：< 200ms (95th percentile)
-- 震波檢測延遲：< 5 秒
-- 預測計算時間：< 1 秒
-- 交通流量預測 MAE：12.3 (veh/5min)
-- 車速預測 MAE：3.2 km/h
 
 #### 實際應用場景
 
