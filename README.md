@@ -497,6 +497,5 @@ Deep learning-based Texas Hold'em game and AI decision system, integrating advan
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
 
-<sub>Last Updated: January 2025 | Made with ❤️ by Lee, Sheng-Feng</sub>
 
 </div>
