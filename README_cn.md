@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=淡江大學數據科學碩士+系所第一;台新新光金控全端工程師;AI+研究者+深度學習愛好者)](https://git.io/typing-svg)
 
-[![English](https://img.shields.io/badge/🌐_English-4A90E2?style=for-the-badge)](README.md)
+[![English](https://img.shields.io/badge/🌐_English-4A90E2?style=for-the-badge)](README_en.md)
 
 </div>
 
@@ -113,6 +113,15 @@
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 
 **TensorFlow • PyTorch • OpenCV**
+
+<div align="center">
+
+![LLM](https://img.shields.io/badge/LLM-Large_Language_Models-FF6B6B?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-4ECDC4?style=for-the-badge&logoColor=white)
+![RL](https://img.shields.io/badge/RL-Reinforcement_Learning-95E1D3?style=for-the-badge&logoColor=white)
+![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-Image_Generation-F38181?style=for-the-badge&logoColor=white)
+
+</div>
 
 ### 全端開發
 
@@ -435,19 +444,25 @@
 
 ## 📈 GitHub Statistics
 
-<div align="center">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ws97109&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ws97109&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ws97109&layout=compact&langs_count=8&theme=radical" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ws97109&layout=compact&langs_count=8&theme=radical)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ws97109&theme=radical" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ws97109&theme=radical)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ws97109&theme=radical&no-frame=true&row=1" />
+</p>
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ws97109&theme=radical&no-frame=true&row=1)
-
+<p align="center">
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding Animation"/>
-
-</div>
+</p>
 
 ---
 
