@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Master's+Student+in+Data+Science;Full-Stack+Engineer+at+Taishin+Bank;AI+Researcher+and+Deep+Learning+Enthusiast)](https://git.io/typing-svg)
 
-[![繁體中文](https://img.shields.io/badge/🌐_中文-4A90E2?style=for-the-badge)](README_cn.md)
+[![繁體中文](https://img.shields.io/badge/🌐_繁體中文-4A90E2?style=for-the-badge)](README_cn.md)
 
 </div>
 
