@@ -28,7 +28,7 @@
 核心特色：
 
 採用深度 Q 學習 (DQN) 演算法，具備 experience replay 和 target network 機制
-支援 2-7 個玩家的多人德州撲克對戰，靈活的遊戲配置系統
+支援 2、7 個玩家的多人德州撲克對戰，靈活的遊戲配置系統
 智慧ε-greedy 探索策略，探索率從 0.9 自適應衰減至 0.1，平衡探索與利用
 完整的遊戲邏輯實現：牌型評分、下注輪次、分池機制、位置管理
 獎勵函數設計，結合遊戲結果、策略評估與風險管理
@@ -49,7 +49,7 @@
 - 提供使用者分析結果與策略
 - 全面的遊戲歷史記錄與策略效果追蹤系統
 
-**使用技術：** Python, CNN, 強化學習, 影像識別, MySQL, 博弈理論
+**使用技術：** Python, CNN, 強化學習, OpenCV, MySQL
 
 ---
 
@@ -79,7 +79,7 @@
 - 經微調的分析模型，提供使用者精神狀態與心靈狀況分析
 - 完整的 Web 系統架構，支援即時互動與結果展示
 
-**使用技術：** Python, Flask, HTML/CSS/JavaScript, Ollama, Qwen 模型, Stable Diffusion
+**使用技術：** Python, Flask, Ollama, Qwen 模型, Stable Diffusion
 
 ---
 
