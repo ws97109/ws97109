@@ -239,6 +239,8 @@
 - 教育機構政策參考
 - 社會問題研究工具
 
+**🏆 競賽成果**：中研院資料科學漫步競賽 優選 + 最佳人氣獎
+
 **🔧 Tech Stack**：
 
 <div align="center">
@@ -255,9 +257,9 @@
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
 </div>
-**🏆 競賽成果**：中研院資料科學漫步競賽 優選 + 最佳人氣獎
 
 ---
+
 ### 🎴 強化學習德州撲克 AI 系統
 
 [![GitHub](https://img.shields.io/badge/專案連結-181717?style=for-the-badge&logo=github)](https://github.com/ws97109/poker_ai)
@@ -382,7 +384,14 @@
 
 </div>
 
+<div align="center">
+
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+
+</div>
+
 ---
+
 ### 🎴 德州撲克 AI 決策輔助系統
 
 [![GitHub](https://img.shields.io/badge/專案連結-181717?style=for-the-badge&logo=github)](https://github.com/ws97109/poker_analyze)
@@ -422,36 +431,25 @@
 
 </div>
 
-<div align="center">
-
-![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
-
-</div>
-
 ---
 
 ## 📈 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ws97109&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ws97109&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ws97109&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
-<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ws97109&layout=compact&langs_count=8&theme=radical)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ws97109&theme=radical" alt="GitHub Streak"/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ws97109&theme=radical)
 
-<br/>
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ws97109&theme=radical&no-frame=true&row=1)
 
-<img src="https://github-profile-trophy.vercel.app/?username=ws97109&theme=radical&no-frame=true&row=1" alt="GitHub Trophies"/>
-
-<br/>
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding GIF"/>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding Animation"/>
 
 </div>
----
 
+---
 
 ## 💭 理念
 
