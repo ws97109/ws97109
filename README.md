@@ -151,8 +151,6 @@
 
 **理論創新**
 - 首創將地震學震波傳播理論應用於交通分析
-- 基於 Indiana 州研究，後向震波速度 4.2 mph
-- 87% 檢測準確率，三級警報系統
 
 **技術架構**
 - **前端**：Next.js 15 + TypeScript 響應式應用
@@ -189,19 +187,6 @@
 - 預防性交通管制策略
 - 大屏數據中心
 
-#### 📊 Performance Metrics
-
-<div align="center">
-
-| Metric | Value | Description |
-|:----:|:----:|:-----|
-| ⚡ Shockwave Detection Latency | **< 5 sec** | Millisecond-level real-time response |
-| 🚀 API Response Time | **< 200ms** | High-performance system architecture |
-| 📈 Traffic Flow Prediction MAE | **12.3** veh/5min | Industry-leading performance |
-| 🚗 Speed Prediction MAE | **3.2** km/h | Accurate prediction capability |
-| 🛣️ Density Prediction MAE | **8.9** veh/km | Extremely high reliability |
-
-</div>
 
 **🏆 競賽成果**：高公局國道智能競賽亞軍
 
@@ -226,6 +211,51 @@
 
 ---
 
+### 📊 網路行為研究
+
+[![GitHub](https://img.shields.io/badge/專案連結-181717?style=for-the-badge&logo=github)](https://github.com/ws97109/Internet-behavior)
+![Status](https://img.shields.io/badge/Status-獲獎專案-gold?style=for-the-badge)
+
+深度探討不同群體網路使用模式與霸凌現象關聯的學術研究專案，運用多變量統計分析技術建立行為預測模型。
+
+#### 🔬 核心特色
+
+**實證研究**
+- 樣本規模：672 位參與者
+- 資料來源：Taiwan Communication Survey Database
+- 研究對象：不同年齡層與背景的網路使用者
+
+**統計分析方法**
+- 廣義關聯圖（GAP）：建立使用者行為分類模型
+- 主成分分析（PCA）：探討行為特徵與模式
+- 因素分析：降維與潛在因子識別
+- 典型相關分析（CCA）：建構因果關係模型
+
+**研究貢獻**
+- 網路素養教育政策制定
+- 反霸凌策略數據支持
+- 教育機構政策參考
+- 社會問題研究工具
+
+**🔧 Tech Stack**：
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-8B0000?style=for-the-badge&logoColor=white)
+![PCA](https://img.shields.io/badge/PCA-006400?style=for-the-badge&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-B8860B?style=for-the-badge&logoColor=white)
+
+</div>
+
+<div align="center">
+
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+
+</div>
+**🏆 競賽成果**：中研院資料科學漫步競賽 優選 + 最佳人氣獎
+
+---
 ### 🎴 強化學習德州撲克 AI 系統
 
 [![GitHub](https://img.shields.io/badge/專案連結-181717?style=for-the-badge&logo=github)](https://github.com/ws97109/poker_ai)
@@ -270,97 +300,6 @@
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-8B0000?style=for-the-badge&logoColor=white)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-006400?style=for-the-badge&logoColor=white)
 ![Game Theory](https://img.shields.io/badge/Game_Theory-4B0082?style=for-the-badge&logoColor=white)
-
-</div>
-
-<div align="center">
-
-![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
-
-</div>
-
----
-
-### 🎴 德州撲克 AI 決策輔助系統
-
-[![GitHub](https://img.shields.io/badge/專案連結-181717?style=for-the-badge&logo=github)](https://github.com/ws97109/poker_analyze)
-
-基於深度學習的德州撲克遊戲與 AI 決策系統，整合先進的影像識別技術與強化學習演算法。
-
-#### 🎯 核心特色
-
-**影像識別系統**
-- OpenCV 實作自動辨識牌面與籌碼
-- 即時圖像處理與特徵提取
-- 多角度識別適應
-
-**AI 決策引擎**
-- CNN 驅動的專業級 AI 對手
-- 深度強化學習策略分析
-- 即時策略調整與優化
-
-**對戰平台**
-- 完整的單挑德州撲克系統
-- 即時策略分析功能
-- 手牌強度、位置價值、籌碼深度評估
-
-**分析系統**
-- 提供使用者分析結果與策略建議
-- 全面的遊戲歷史記錄
-- 策略效果追蹤與決策回放
-
-**🔧 Tech Stack**：
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN-8B0000?style=for-the-badge&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
-<div align="center">
-
-![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
-
-</div>
-
----
-
-### 📊 網路行為研究
-
-[![GitHub](https://img.shields.io/badge/專案連結-181717?style=for-the-badge&logo=github)](https://github.com/ws97109/Internet-behavior)
-
-深度探討不同群體網路使用模式與霸凌現象關聯的學術研究專案，運用多變量統計分析技術建立行為預測模型。
-
-#### 🔬 核心特色
-
-**實證研究**
-- 樣本規模：672 位參與者
-- 資料來源：Taiwan Communication Survey Database
-- 研究對象：不同年齡層與背景的網路使用者
-
-**統計分析方法**
-- 廣義關聯圖（GAP）：建立使用者行為分類模型
-- 主成分分析（PCA）：探討行為特徵與模式
-- 因素分析：降維與潛在因子識別
-- 典型相關分析（CCA）：建構因果關係模型
-
-**研究貢獻**
-- 網路素養教育政策制定
-- 反霸凌策略數據支持
-- 教育機構政策參考
-- 社會問題研究工具
-
-**🔧 Tech Stack**：
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-8B0000?style=for-the-badge&logoColor=white)
-![PCA](https://img.shields.io/badge/PCA-006400?style=for-the-badge&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-B8860B?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -463,17 +402,52 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding GIF"/>
 
 </div>
-
 ---
 
-## 🎯 2026 發展藍圖
+### 🎴 德州撲克 AI 決策輔助系統
 
-| 時程 | 💡 技術精進 | 📚 學術貢獻 |
-|:----:|:-----------|:-----------|
-| **Q1** | 深化時空預測與圖神經網路研究 | 累積研究素材與文獻回顧 |
-| **Q2** | 雲端架構認證（Azure/AWS） | 撰寫並投稿學術論文 |
-| **Q3** | 探索 LLM 在交通領域應用 | 參與開源專案貢獻 |
-| **Q4** | 提升系統設計與架構能力 | 建立技術分享部落格 |
+[![GitHub](https://img.shields.io/badge/專案連結-181717?style=for-the-badge&logo=github)](https://github.com/ws97109/poker_analyze)
+
+基於深度學習的德州撲克遊戲與 AI 決策系統，整合先進的影像識別技術與強化學習演算法。
+
+#### 🎯 核心特色
+
+**影像識別系統**
+- OpenCV 實作自動辨識牌面與籌碼
+- 即時圖像處理與特徵提取
+- 多角度識別適應
+
+**AI 決策引擎**
+- CNN 驅動的專業級 AI 對手
+- 深度強化學習策略分析
+- 即時策略調整與優化
+
+**對戰平台**
+- 完整的單挑德州撲克系統
+- 即時策略分析功能
+- 手牌強度、位置價值、籌碼深度評估
+
+**分析系統**
+- 提供使用者分析結果與策略建議
+- 全面的遊戲歷史記錄
+- 策略效果追蹤與決策回放
+
+**🔧 Tech Stack**：
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-8B0000?style=for-the-badge&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+<div align="center">
+
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+
+</div>
 
 ---
 
