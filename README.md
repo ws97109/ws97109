@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lee%20Sheng-Feng&fontSize=60&fontColor=fff&animation=twinkling)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lee%20Sheng-Feng&fontSize=60&fontColor=000&animation=twinkling)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=淡江大學數據科學碩士+系所第一;台新新光金控全端工程師;AI+研究者+深度學習愛好者)](https://git.io/typing-svg)
 
@@ -39,18 +39,22 @@
 | 🥇 | 中研院資料科學漫步競賽 | 優選 + 最佳人氣獎 | 2024 | 創新 AI 應用，獲雙料大獎 |
 | 🥈 | 高公局國道智能競賽 | 亞軍 | 2024 | 智慧交通震波預警系統 |
 
+<div align="center">
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300" alt="Celebration"/>
+</div>
+
 ---
 
 ### 💪 核心能力
 
 <div align="center">
 
-| 技能領域 | 熟練度 | 主要技術 |
-|:--------:|:------:|:--------|
-| 🧠 AI & 深度學習 | ![](https://img.shields.io/badge/95%25-brightgreen?style=flat-square) | TensorFlow • PyTorch • OpenCV |
-| 💻 全端開發 | ![](https://img.shields.io/badge/95%25-blue?style=flat-square) | Java • Vue.js • Next.js • FastAPI |
-| 📊 數據分析 | ![](https://img.shields.io/badge/90%25-yellow?style=flat-square) | Python • R • SAS • Power BI |
-| ☁️ 雲端架構 | ![](https://img.shields.io/badge/80%25-orange?style=flat-square) | Azure • Kubernetes • Docker |
+| 技能領域 | 主要技術 |
+|:--------:|:--------|
+| 🧠 AI & 深度學習 | TensorFlow • PyTorch • OpenCV • Keras |
+| 💻 全端開發 | Java • Vue.js • Next.js • FastAPI • Flask |
+| 📊 數據分析 | Python • R • SAS • Power BI • SPSS |
+| ☁️ 雲端架構 | Azure • Kubernetes • Docker • Git |
 
 </div>
 
@@ -100,17 +104,25 @@
 
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,r" />
 
+**Python • Java • JavaScript • TypeScript • R**
+
 ### AI & 機器學習
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+
+**TensorFlow • PyTorch • OpenCV**
 
 ### 全端開發
 
 <img src="https://skillicons.dev/icons?i=fastapi,flask,vue,nextjs" />
 
+**FastAPI • Flask • Vue.js • Next.js**
+
 ### 資料庫 & 雲端
 
 <img src="https://skillicons.dev/icons?i=mysql,docker,kubernetes,azure,git" />
+
+**MySQL • Docker • Kubernetes • Azure • Git**
 
 </div>
 
@@ -197,11 +209,12 @@
 
 <div align="center">
 
-![時空預測](https://img.shields.io/badge/時空預測-FF6B6B?style=for-the-badge)
-![圖神經網路](https://img.shields.io/badge/圖神經網路-4ECDC4?style=for-the-badge)
-![震波檢測](https://img.shields.io/badge/震波檢測-95E1D3?style=for-the-badge)
-![智慧交通](https://img.shields.io/badge/智慧交通-F38181?style=for-the-badge)
-![深度學習](https://img.shields.io/badge/深度學習-AA96DA?style=for-the-badge)
+![時空預測](https://img.shields.io/badge/時空預測-DC143C?style=for-the-badge&logoColor=white)
+![圖神經網路](https://img.shields.io/badge/圖神經網路-008B8B?style=for-the-badge&logoColor=white)
+![震波檢測](https://img.shields.io/badge/震波檢測-2F4F4F?style=for-the-badge&logoColor=white)
+![智慧交通](https://img.shields.io/badge/智慧交通-B22222?style=for-the-badge&logoColor=white)
+![深度學習](https://img.shields.io/badge/深度學習-4B0082?style=for-the-badge&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -254,8 +267,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![DQN](https://img.shields.io/badge/Deep_Q_Learning-00D9FF?style=for-the-badge)
-![Game Theory](https://img.shields.io/badge/博弈理論-FFB6C1?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-8B0000?style=for-the-badge&logoColor=white)
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-006400?style=for-the-badge&logoColor=white)
+![Game Theory](https://img.shields.io/badge/博弈理論-4B0082?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -301,7 +315,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN-FF6B6B?style=for-the-badge)
+![CNN](https://img.shields.io/badge/CNN-8B0000?style=for-the-badge&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
@@ -344,9 +358,9 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Statistics](https://img.shields.io/badge/統計分析-FF6B6B?style=for-the-badge)
-![PCA](https://img.shields.io/badge/PCA-4ECDC4?style=for-the-badge)
-![Visualization](https://img.shields.io/badge/數據視覺化-FFD93D?style=for-the-badge)
+![Statistics](https://img.shields.io/badge/統計分析-8B0000?style=for-the-badge&logoColor=white)
+![PCA](https://img.shields.io/badge/PCA-006400?style=for-the-badge&logoColor=white)
+![Visualization](https://img.shields.io/badge/數據視覺化-B8860B?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -382,9 +396,9 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-FF6B6B?style=for-the-badge)
+![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-8B0000?style=for-the-badge&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge)
+![Gradio](https://img.shields.io/badge/Gradio-FF6C37?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -421,8 +435,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
-![Qwen](https://img.shields.io/badge/Qwen-FF6B6B?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-8B0000?style=for-the-badge&logoColor=white)
+![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-4B0082?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -431,6 +446,8 @@
 ## 📈 GitHub 統計
 
 <div align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" alt="Coding"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ws97109&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ws97109&layout=compact&langs_count=8&theme=radical" height="180"/>
