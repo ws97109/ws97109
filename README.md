@@ -114,6 +114,15 @@ Focus on AI, Deep Learning, and Data Science Research
 
 **TensorFlow • PyTorch • OpenCV**
 
+<div align="center">
+
+![LLM](https://img.shields.io/badge/LLM-Large_Language_Models-FF6B6B?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-4ECDC4?style=for-the-badge&logoColor=white)
+![RL](https://img.shields.io/badge/RL-Reinforcement_Learning-95E1D3?style=for-the-badge&logoColor=white)
+![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-Image_Generation-F38181?style=for-the-badge&logoColor=white)
+
+</div>
+
 ### Full-Stack Development
 
 <img src="https://skillicons.dev/icons?i=fastapi,flask,vue,nextjs" />
