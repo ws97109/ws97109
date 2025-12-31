@@ -498,6 +498,5 @@
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
 
-<sub>最後更新：2025年1月 | Made with ❤️ by Lee, Sheng-Feng</sub>
 
 </div>
