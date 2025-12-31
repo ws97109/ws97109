@@ -2,44 +2,44 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lee%20Sheng-Feng&fontSize=60&fontColor=000&animation=twinkling)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=淡江大學數據科學碩士+系所第一;台新新光金控全端工程師;AI+研究者+深度學習愛好者)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Master's+Student+in+Data+Science;Full-Stack+Engineer+at+Taishin+Bank;AI+Researcher+and+Deep+Learning+Enthusiast)](https://git.io/typing-svg)
 
-[![English](https://img.shields.io/badge/🌐_English-4A90E2?style=for-the-badge)](README_en.md)
+[![中文](https://img.shields.io/badge/🌐_中文-4A90E2?style=for-the-badge)](README.md)
 
 </div>
 
 ---
 
-## 💫 關於我
+## 💫 About Me
 
 <div align="center">
 
-**🎓 淡江大學統計學系數據科學碩士班 | 🏆 系所排名第一**
+**🎓 Tamkang University | Master of Data Science | Top 1 in Program**
 
-專注於 AI、深度學習與數據科學研究
+Focus on AI, Deep Learning, and Data Science Research
 
 </div>
 
 ---
 
-### 🚀 現職經歷
+### 🚀 Current Position
 
-| 🏢 公司 | 💼 職位 | 🔧 技術棧 |
+| 🏢 Company | 💼 Position | 🔧 Tech Stack |
 |:------:|:------:|:-------:|
-| **台新新光金控** | 全端工程師 | Java • Vue.js • K8s • Azure |
+| **Taishin Financial Holdings** | Full-Stack Engineer | Java • Vue.js • K8s • Azure |
 
-**開發項目**：
-1. 網路銀行系統開發與維護
-2. 系統部屬與優化
+**Projects**:
+1. Internet Banking System Development and Maintenance
+2. System Deployment and Optimization
 
 ---
 
-### 🏆 競賽榮譽
+### 🏆 Competition Awards
 
-| 🎖️ | 競賽名稱 | 獎項 | 年份 | 成就亮點 |
+| 🎖️ | Competition | Award | Year | Achievement |
 |:---:|:---------|:----:|:----:|:---------|
-| 🥇 | 中研院資料科學漫步競賽 | 優選 + 最佳人氣獎 | 2024 | 創新 AI 應用，獲雙料大獎 |
-| 🥈 | 高公局國道智能競賽 | 亞軍 | 2024 | 智慧交通震波預警系統 |
+| 🥇 | Academia Sinica Data Science Competition | Excellence + Best Popularity | 2024 | Innovative AI Application, Double Awards |
+| 🥈 | National Freeway Bureau Intelligent Transportation Competition | 2nd Place | 2024 | Traffic Shockwave Warning System |
 
 <div align="center">
 <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300" alt="Celebration"/>
@@ -47,22 +47,22 @@
 
 ---
 
-### 💪 核心能力
+### 💪 Core Competencies
 
 <div align="center">
 
-| 技能領域 | 主要技術 |
+| Skill Domain | Main Technologies |
 |:--------:|:--------|
-| 🧠 AI & 深度學習 | TensorFlow • PyTorch • OpenCV • Keras |
-| 💻 全端開發 | Java • Vue.js • Next.js • FastAPI • Flask |
-| 📊 數據分析 | Python • R • SAS • Power BI • SPSS |
-| ☁️ 雲端架構 | Azure • Kubernetes • Docker • Git |
+| 🧠 AI & Deep Learning | TensorFlow • PyTorch • OpenCV • Keras |
+| 💻 Full-Stack Development | Java • Vue.js • Next.js • FastAPI • Flask |
+| 📊 Data Analysis | Python • R • SAS • Power BI • SPSS |
+| ☁️ Cloud Architecture | Azure • Kubernetes • Docker • Git |
 
 </div>
 
 ---
 
-### 📬 聯繫方式
+### 📬 Contact Me
 
 <div align="center">
 
@@ -75,18 +75,18 @@
 
 ---
 
-## 🎖️ 專業認證
+## 🎖️ Professional Certifications
 
 <div align="center">
 
-### ☁️ AI 與雲端運算
+### ☁️ AI & Cloud Computing
 
 ![AI-900](https://img.shields.io/badge/AI--900-Azure_AI_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure)
 ![AWS AI](https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws)
 ![AZ-900](https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure)
 ![ITS-AI](https://img.shields.io/badge/ITS-AI_Certification-00C4CC?style=for-the-badge)
 
-### 📊 數據分析與辦公軟體
+### 📊 Data Analysis & Office Applications
 
 ![SAS](https://img.shields.io/badge/SAS-Base_Certified-1E4C8F?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power_BI-Data_Analyst-F2C811?style=for-the-badge&logo=powerbi)
@@ -98,29 +98,29 @@
 
 ---
 
-## 🛠️ 技術工具箱
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 程式語言
+### Programming Languages
 
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,r" />
 
 **Python • Java • JavaScript • TypeScript • R**
 
-### AI & 機器學習
+### AI & Machine Learning
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 
 **TensorFlow • PyTorch • OpenCV**
 
-### 全端開發
+### Full-Stack Development
 
 <img src="https://skillicons.dev/icons?i=fastapi,flask,vue,nextjs" />
 
 **FastAPI • Flask • Vue.js • Next.js**
 
-### 資料庫 & 雲端
+### Database & Cloud
 
 <img src="https://skillicons.dev/icons?i=mysql,docker,kubernetes,azure,git" />
 
@@ -130,11 +130,11 @@
 
 ---
 
-## 🚀 精選專案
+## 🚀 Featured Projects
 
 <div align="center">
 
-### 💡 從理論到實踐，用代碼改變世界
+### 💡 From Theory to Practice, Changing the World with Code
 
 ![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -142,57 +142,56 @@
 
 ---
 
-### 🚦 高速公路智慧交通震波預警 AI 決策系統
+### 🚦 Intelligent Highway Traffic Shockwave Warning AI System
 
-[![GitHub](https://img.shields.io/badge/專案連結-181717?style=for-the-badge&logo=github)](https://github.com/ws97109/Highway_traffic)
-![Status](https://img.shields.io/badge/Status-獲獎專案-gold?style=for-the-badge)
+[![GitHub](https://img.shields.io/badge/Project_Link-181717?style=for-the-badge&logo=github)](https://github.com/ws97109/Highway_traffic)
+![Status](https://img.shields.io/badge/Status-Award_Winning-gold?style=for-the-badge)
 
-> 首創將地震學震波理論應用於交通流分析，結合 MT-STNet 深度學習與傳統交通理論，實現毫秒級即時震波檢測與智慧預警
+> First application of seismological shockwave theory to traffic flow analysis, combining MT-STNet deep learning with traditional traffic theory for millisecond-level real-time shockwave detection and intelligent warning
 
-#### 🎯 創新突破
+#### 🎯 Innovation Highlights
 
-**理論創新**
-- 首創將地震學震波傳播理論應用於交通分析
+**Theoretical Innovation**
+- First application of seismological shockwave propagation theory to traffic analysis
 
-**技術架構**
-- **前端**：Next.js 15 + TypeScript 響應式應用
-- **後端**：FastAPI 高效能 API（響應時間 < 200ms）
-- **AI 核心**：TensorFlow + MT-STNet 深度學習引擎
+**Technical Architecture**
+- **Frontend**: Next.js 15 + TypeScript responsive application
+- **Backend**: FastAPI high-performance API (response time < 200ms)
+- **AI Core**: TensorFlow + MT-STNet deep learning engine
 
-#### 🔬 核心技術
+#### 🔬 Core Technologies
 
-**MT-STNet 多任務神經網路**
-- 同步預測：交通流量、速度、密度
-- 支援 12 個歷史時步預測未來 12 個時步
-- 整合 17 種基準模型：AGCRN、DCRNN、Graph-WaveNet 等
+**MT-STNet Multi-Task Neural Network**
+- Simultaneous prediction: traffic flow, speed, density
+- Supports 12 historical time steps to predict 12 future time steps
+- Integrates 17 baseline models: AGCRN, DCRNN, Graph-WaveNet, etc.
 
-**震波檢測演算法**
-- 輕微警報：速度下降 6-18 km/h
-- 中等警報：速度下降 18-30 km/h  
-- 嚴重警報：速度下降 30+ km/h
+**Shockwave Detection Algorithm**
+- Mild warning: speed drop 6-18 km/h
+- Moderate warning: speed drop 18-30 km/h
+- Severe warning: speed drop 30+ km/h
 
-**RAG 智能助手**
-- 學習道路幾何資料與即時數值
-- 提供情境化建議與決策支援
+**RAG Intelligent Assistant**
+- Learns road geometry data and real-time values
+- Provides contextualized suggestions and decision support
 
-#### 🎮 系統功能
+#### 🎮 System Features
 
-**駕駛者服務**
-- 即時震波預警與到達時間預測
-- 智慧路線規劃與替代方案
-- 出發時間優化建議
-- 油耗與時間成本估算
+**Driver Services**
+- Real-time shockwave warnings and arrival time prediction
+- Intelligent route planning and alternative suggestions
+- Departure time optimization recommendations
+- Fuel consumption and time cost estimation
 
-**管理者功能**
-- 全路網即時監控
-- AI 驅動決策支援系統
-- 預防性交通管制策略
-- 大屏數據中心
+**Manager Functions**
+- Full network real-time monitoring
+- AI-driven decision support system
+- Preventive traffic control strategies
+- Large-screen data center
 
+**🏆 Competition Result**: 2nd Place in National Freeway Bureau Intelligent Transportation Competition
 
-**🏆 競賽成果**：高公局國道智能競賽亞軍
-
-**🏷️ Tech Stack**：
+**🏷️ Tech Stack**:
 
 <div align="center">
 
@@ -213,35 +212,35 @@
 
 ---
 
-### 📊 網路行為研究
+### 📊 Internet Behavior Research
 
-[![GitHub](https://img.shields.io/badge/專案連結-181717?style=for-the-badge&logo=github)](https://github.com/ws97109/Internet-behavior)
-![Status](https://img.shields.io/badge/Status-獲獎專案-gold?style=for-the-badge)
+[![GitHub](https://img.shields.io/badge/Project_Link-181717?style=for-the-badge&logo=github)](https://github.com/ws97109/Internet-behavior)
+![Status](https://img.shields.io/badge/Status-Award_Winning-gold?style=for-the-badge)
 
-深度探討不同群體網路使用模式與霸凌現象關聯的學術研究專案，運用多變量統計分析技術建立行為預測模型。
+Academic research project exploring the relationship between different groups' internet usage patterns and bullying phenomena, using multivariate statistical analysis techniques to build behavioral prediction models.
 
-#### 🔬 核心特色
+#### 🔬 Core Features
 
-**實證研究**
-- 樣本規模：672 位參與者
-- 資料來源：Taiwan Communication Survey Database
-- 研究對象：不同年齡層與背景的網路使用者
+**Empirical Research**
+- Sample size: 672 participants
+- Data source: Taiwan Communication Survey Database
+- Research subjects: internet users of different ages and backgrounds
 
-**統計分析方法**
-- 廣義關聯圖（GAP）：建立使用者行為分類模型
-- 主成分分析（PCA）：探討行為特徵與模式
-- 因素分析：降維與潛在因子識別
-- 典型相關分析（CCA）：建構因果關係模型
+**Statistical Analysis Methods**
+- Generalized Association Plot (GAP): builds user behavior classification model
+- Principal Component Analysis (PCA): explores behavioral features and patterns
+- Factor Analysis: dimensionality reduction and latent factor identification
+- Canonical Correlation Analysis (CCA): constructs causal relationship model
 
-**研究貢獻**
-- 網路素養教育政策制定
-- 反霸凌策略數據支持
-- 教育機構政策參考
-- 社會問題研究工具
+**Research Contributions**
+- Internet literacy education policy formulation
+- Anti-bullying strategy data support
+- Educational institution policy reference
+- Social problem research tools
 
-**🏆 競賽成果**：中研院資料科學漫步競賽 優選 + 最佳人氣獎
+**🏆 Competition Result**: Academia Sinica Data Science Competition - Excellence + Best Popularity Award
 
-**🔧 Tech Stack**：
+**🔧 Tech Stack**:
 
 <div align="center">
 
@@ -260,42 +259,42 @@
 
 ---
 
-### 🎴 強化學習德州撲克 AI 系統
+### 🎴 Reinforcement Learning Texas Hold'em AI System
 
-[![GitHub](https://img.shields.io/badge/專案連結-181717?style=for-the-badge&logo=github)](https://github.com/ws97109/poker_ai)
+[![GitHub](https://img.shields.io/badge/Project_Link-181717?style=for-the-badge&logo=github)](https://github.com/ws97109/poker_ai)
 
-基於深度強化學習的智慧撲克 AI 系統，運用 DQN 演算法創建具備專業決策能力的虛擬對手，整合完整的訓練框架與網頁遊戲平台。
+Intelligent poker AI system based on deep reinforcement learning, using DQN algorithm to create virtual opponents with professional decision-making capabilities, integrating complete training framework and web game platform.
 
-#### 🎯 核心特色
+#### 🎯 Core Features
 
-**深度 Q 學習 (DQN) 演算法**
-- Experience Replay 機制：儲存歷史經驗，打破數據相關性
-- Target Network 機制：穩定訓練過程，提高收斂性
-- 獎勵函數設計：結合遊戲結果、策略評估與風險管理
+**Deep Q-Learning (DQN) Algorithm**
+- Experience Replay mechanism: stores historical experiences, breaks data correlation
+- Target Network mechanism: stabilizes training process, improves convergence
+- Reward function design: combines game results, strategy evaluation, and risk management
 
-**多人對戰系統**
-- 支援 2-7 個玩家的多人德州撲克對戰
-- 靈活的遊戲配置系統
-- 完整的遊戲邏輯實現
+**Multi-Player Battle System**
+- Supports 2-7 player Texas Hold'em battles
+- Flexible game configuration system
+- Complete game logic implementation
 
-**智慧探索策略**
-- ε-greedy 探索策略
-- 探索率從 0.9 自適應衰減至 0.1
-- 平衡探索與利用的動態調整
+**Intelligent Exploration Strategy**
+- ε-greedy exploration strategy
+- Exploration rate adaptively decays from 0.9 to 0.1
+- Dynamic adjustment balancing exploration and exploitation
 
-**完整遊戲邏輯**
-- 牌型評分系統與識別
-- 下注輪次管理（翻牌前、翻牌、轉牌、河牌）
-- 分池機制與位置管理
-- 全押與邊池處理
+**Complete Game Logic**
+- Hand evaluation system and recognition
+- Betting round management (preflop, flop, turn, river)
+- Pot mechanism and position management
+- All-in and side pot handling
 
-**訓練視覺化**
-- 勝率追蹤與趨勢分析
-- 獎勵變化曲線
-- 策略演化記錄
-- 探索率衰減監控
+**Training Visualization**
+- Win rate tracking and trend analysis
+- Reward change curves
+- Strategy evolution records
+- Exploration rate decay monitoring
 
-**🔧 Tech Stack**：
+**🔧 Tech Stack**:
 
 <div align="center">
 
@@ -315,26 +314,26 @@
 
 ---
 
-### 🎨 AI 圖像生成器
+### 🎨 AI Image Generator
 
-[![GitHub](https://img.shields.io/badge/專案連結-181717?style=for-the-badge&logo=github)](https://github.com/ws97109/generate_images_web)
+[![GitHub](https://img.shields.io/badge/Project_Link-181717?style=for-the-badge&logo=github)](https://github.com/ws97109/generate_images_web)
 
-基於 Stable Diffusion 的多模型圖像生成工具，支援中文輸入自動翻譯，提供直觀的 Web 介面。
+Multi-model image generation tool based on Stable Diffusion, supporting automatic Chinese input translation with intuitive web interface.
 
-#### 🎯 核心特色
+#### 🎯 Core Features
 
-**多模型整合**
-- MajicMIX Realistic v6：超寫實風格
-- Realistic Vision V5.1：精緻細節處理
-- Stable Diffusion v1.5：穩定基礎模型
+**Multi-Model Integration**
+- MajicMIX Realistic v6: photorealistic style
+- Realistic Vision V5.1: refined detail processing
+- Stable Diffusion v1.5: stable foundation model
 
-**智慧功能**
-- 中文提示詞自動翻譯
-- 參數自訂（種子、尺寸、步數）
-- 批量生成功能
-- Gradio 友善介面
+**Intelligent Functions**
+- Automatic Chinese prompt translation
+- Parameter customization (seed, size, steps)
+- Batch generation functionality
+- Gradio-friendly interface
 
-**🔧 Tech Stack**：
+**🔧 Tech Stack**:
 
 <div align="center">
 
@@ -353,26 +352,26 @@
 
 ---
 
-### 🌙 夢境分析與視覺化系統
+### 🌙 Dream Analysis and Visualization System
 
-[![GitHub](https://img.shields.io/badge/專案連結-181717?style=for-the-badge&logo=github)](https://github.com/ws97109/dream-analyzer)
+[![GitHub](https://img.shields.io/badge/Project_Link-181717?style=for-the-badge&logo=github)](https://github.com/ws97109/dream-analyzer)
 
-整合多個 AI 模型的夢境分析系統，將夢境描述轉換成完整故事與視覺圖像，並提供心理分析。
+Dream analysis system integrating multiple AI models, converting dream descriptions into complete stories and visual images with psychological analysis.
 
-#### 🎯 核心特色
+#### 🎯 Core Features
 
-**AI 模型整合**
-- Ollama Qwen:14b：智慧對話與故事生成
-- Stable Diffusion：夢境視覺化圖像生成
-- 反思能力：零散元素編織成完整敘事
+**AI Model Integration**
+- Ollama Qwen:14b: intelligent dialogue and story generation
+- Stable Diffusion: dream visualization image generation
+- Reflection capability: weaving scattered elements into complete narratives
 
-**系統功能**
-- 智慧故事生成與情節發展
-- 夢境視覺化自動配圖
-- 精神狀態與心理分析
-- 完整的 Web 系統架構
+**System Functions**
+- Intelligent story generation and plot development
+- Automated dream visualization
+- Mental state and psychological analysis
+- Complete web system architecture
 
-**🔧 Tech Stack**：
+**🔧 Tech Stack**:
 
 <div align="center">
 
@@ -392,35 +391,35 @@
 
 ---
 
-### 🎴 德州撲克 AI 決策輔助系統
+### 🎴 Texas Hold'em AI Decision Support System
 
-[![GitHub](https://img.shields.io/badge/專案連結-181717?style=for-the-badge&logo=github)](https://github.com/ws97109/poker_analyze)
+[![GitHub](https://img.shields.io/badge/Project_Link-181717?style=for-the-badge&logo=github)](https://github.com/ws97109/poker_analyze)
 
-基於深度學習的德州撲克遊戲與 AI 決策系統，整合先進的影像識別技術與強化學習演算法。
+Deep learning-based Texas Hold'em game and AI decision system, integrating advanced image recognition technology and reinforcement learning algorithms.
 
-#### 🎯 核心特色
+#### 🎯 Core Features
 
-**影像識別系統**
-- OpenCV 實作自動辨識牌面與籌碼
-- 即時圖像處理與特徵提取
-- 多角度識別適應
+**Image Recognition System**
+- OpenCV implementation for automatic card and chip recognition
+- Real-time image processing and feature extraction
+- Multi-angle recognition adaptation
 
-**AI 決策引擎**
-- CNN 驅動的專業級 AI 對手
-- 深度強化學習策略分析
-- 即時策略調整與優化
+**AI Decision Engine**
+- CNN-driven professional-level AI opponents
+- Deep reinforcement learning strategy analysis
+- Real-time strategy adjustment and optimization
 
-**對戰平台**
-- 完整的單挑德州撲克系統
-- 即時策略分析功能
-- 手牌強度、位置價值、籌碼深度評估
+**Battle Platform**
+- Complete heads-up Texas Hold'em system
+- Real-time strategy analysis functionality
+- Hand strength, position value, and stack depth evaluation
 
-**分析系統**
-- 提供使用者分析結果與策略建議
-- 全面的遊戲歷史記錄
-- 策略效果追蹤與決策回放
+**Analysis System**
+- Provides users with analysis results and strategy suggestions
+- Comprehensive game history recording
+- Strategy effectiveness tracking and decision replay
 
-**🔧 Tech Stack**：
+**🔧 Tech Stack**:
 
 <div align="center">
 
@@ -435,46 +434,52 @@
 
 ## 📈 GitHub Statistics
 
-<div align="center">
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ws97109&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ws97109&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ws97109&layout=compact&langs_count=8&theme=radical" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ws97109&layout=compact&langs_count=8&theme=radical)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ws97109&theme=radical" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ws97109&theme=radical)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ws97109&theme=radical&no-frame=true&row=1" />
+</p>
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=ws97109&theme=radical&no-frame=true&row=1)
-
+<p align="center">
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding Animation"/>
+</p>
+
+---
+
+## 💭 Philosophy
+
+<div align="center">
+
+> **"Combining academic research with practical applications"**
+>
+> **"Committed to developing intelligent systems with practical value"**
+>
+> **"Creating a better future with AI technology"**
 
 </div>
 
 ---
 
-## 💭 理念
-
 <div align="center">
 
-> **"將學術研究與實際應用相結合"**
->
-> **"致力於開發具有實用價值的智慧系統"**
->
-> **"用 AI 技術創造更美好的未來"**
-
-</div>
-
----
-
-<div align="center">
-
-## 🤝 聯繫與合作
+## 🤝 Let's Create Something Great Together
 
 [![Gmail](https://img.shields.io/badge/Email-ws97109@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ws97109@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-@ws97109-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ws97109)
 
 ---
 
-**⭐ 如果喜歡我的專案，歡迎給個 Star！⭐**
+**⭐ If you like my projects, please give them a Star! ⭐**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ws97109&style=for-the-badge&color=blueviolet)
 ![Followers](https://img.shields.io/github/followers/ws97109?style=for-the-badge&color=blue)
@@ -483,6 +488,6 @@
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
 
-<sub>最後更新：2025年1月 | Made with ❤️ by Lee, Sheng-Feng</sub>
+<sub>Last Updated: January 2025 | Made with ❤️ by Lee, Sheng-Feng</sub>
 
 </div>
