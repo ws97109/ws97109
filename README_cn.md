@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=淡江大學數據科學碩士+系所第一;台新新光金控全端工程師;AI+研究者+深度學習愛好者)](https://git.io/typing-svg)
 
-[![English](https://img.shields.io/badge/🌐_English-4A90E2?style=for-the-badge)](README_en.md)
+[![English](https://img.shields.io/badge/🌐_English-4A90E2?style=for-the-badge)](README.md)
 
 </div>
 
