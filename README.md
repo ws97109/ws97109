@@ -189,31 +189,31 @@
 - 預防性交通管制策略
 - 大屏數據中心
 
-#### 📊 性能指標
+#### 📊 Performance Metrics
 
 <div align="center">
 
-| 指標 | 數值 | 說明 |
+| Metric | Value | Description |
 |:----:|:----:|:-----|
-| ⚡ 震波檢測延遲 | **< 5 秒** | 毫秒級即時響應 |
-| 🚀 API 響應時間 | **< 200ms** | 高效能系統架構 |
-| 📈 流量預測 MAE | **12.3** veh/5min | 業界領先水準 |
-| 🚗 車速預測 MAE | **3.2** km/h | 精準預測能力 |
-| 🛣️ 密度預測 MAE | **8.9** veh/km | 可靠性極高 |
+| ⚡ Shockwave Detection Latency | **< 5 sec** | Millisecond-level real-time response |
+| 🚀 API Response Time | **< 200ms** | High-performance system architecture |
+| 📈 Traffic Flow Prediction MAE | **12.3** veh/5min | Industry-leading performance |
+| 🚗 Speed Prediction MAE | **3.2** km/h | Accurate prediction capability |
+| 🛣️ Density Prediction MAE | **8.9** veh/km | Extremely high reliability |
 
 </div>
 
 **🏆 競賽成果**：高公局國道智能競賽亞軍
 
-**🏷️ 技術標籤**：
+**🏷️ Tech Stack**：
 
 <div align="center">
 
-![時空預測](https://img.shields.io/badge/時空預測-DC143C?style=for-the-badge&logoColor=white)
-![圖神經網路](https://img.shields.io/badge/圖神經網路-008B8B?style=for-the-badge&logoColor=white)
-![震波檢測](https://img.shields.io/badge/震波檢測-2F4F4F?style=for-the-badge&logoColor=white)
-![智慧交通](https://img.shields.io/badge/智慧交通-B22222?style=for-the-badge&logoColor=white)
-![深度學習](https://img.shields.io/badge/深度學習-4B0082?style=for-the-badge&logoColor=white)
+![Spatio-Temporal Prediction](https://img.shields.io/badge/Spatio--Temporal_Prediction-DC143C?style=for-the-badge&logoColor=white)
+![Graph Neural Network](https://img.shields.io/badge/Graph_Neural_Network-008B8B?style=for-the-badge&logoColor=white)
+![Shockwave Detection](https://img.shields.io/badge/Shockwave_Detection-2F4F4F?style=for-the-badge&logoColor=white)
+![Intelligent Transportation](https://img.shields.io/badge/Intelligent_Transportation-B22222?style=for-the-badge&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-4B0082?style=for-the-badge&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
 
 </div>
@@ -261,7 +261,7 @@
 - 策略演化記錄
 - 探索率衰減監控
 
-**🔧 使用技術**：
+**🔧 Tech Stack**：
 
 <div align="center">
 
@@ -269,7 +269,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-8B0000?style=for-the-badge&logoColor=white)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-006400?style=for-the-badge&logoColor=white)
-![Game Theory](https://img.shields.io/badge/博弈理論-4B0082?style=for-the-badge&logoColor=white)
+![Game Theory](https://img.shields.io/badge/Game_Theory-4B0082?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -309,7 +309,7 @@
 - 全面的遊戲歷史記錄
 - 策略效果追蹤與決策回放
 
-**🔧 使用技術**：
+**🔧 Tech Stack**：
 
 <div align="center">
 
@@ -353,14 +353,14 @@
 - 教育機構政策參考
 - 社會問題研究工具
 
-**🔧 使用技術**：
+**🔧 Tech Stack**：
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Statistics](https://img.shields.io/badge/統計分析-8B0000?style=for-the-badge&logoColor=white)
+![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-8B0000?style=for-the-badge&logoColor=white)
 ![PCA](https://img.shields.io/badge/PCA-006400?style=for-the-badge&logoColor=white)
-![Visualization](https://img.shields.io/badge/數據視覺化-B8860B?style=for-the-badge&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-B8860B?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -391,7 +391,7 @@
 - 批量生成功能
 - Gradio 友善介面
 
-**🔧 使用技術**：
+**🔧 Tech Stack**：
 
 <div align="center">
 
@@ -429,7 +429,7 @@
 - 精神狀態與心理分析
 - 完整的 Web 系統架構
 
-**🔧 使用技術**：
+**🔧 Tech Stack**：
 
 <div align="center">
 
@@ -443,18 +443,24 @@
 
 ---
 
-## 📈 GitHub 統計
+## 📈 GitHub Statistics
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" alt="Coding"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ws97109&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ws97109&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ws97109&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ws97109&layout=compact&langs_count=8&theme=radical" height="180"/>
+<br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ws97109&theme=radical" width="50%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ws97109&theme=radical" alt="GitHub Streak"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ws97109&theme=radical&no-frame=true&row=1" width="80%"/>
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ws97109&theme=radical&no-frame=true&row=1" alt="GitHub Trophies"/>
+
+<br/>
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding GIF"/>
 
 </div>
 
