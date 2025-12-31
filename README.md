@@ -1,81 +1,128 @@
+<div align="center">
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lee%20Sheng-Feng&fontSize=60&fontColor=fff&animation=twinkling)
 
-### 🏆 競賽榮譽牆
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=淡江大學數據科學碩士+系所第一;台新新光金控全端工程師;AI+研究者+深度學習愛好者)](https://git.io/typing-svg)
+
+[![English](https://img.shields.io/badge/🌐_English-4A90E2?style=for-the-badge)](README_en.md)
+
+</div>
+
+---
+
+## 💫 關於我
 
 <div align="center">
+
+**🎓 淡江大學統計學系數據科學碩士班 | 🏆 系所排名第一**
+
+專注於 AI、深度學習與數據科學研究
+
+</div>
+
+---
+
+### 🚀 現職經歷
+
+| 🏢 公司 | 💼 職位 | 🔧 技術棧 |
+|:------:|:------:|:-------:|
+| **台新新光金控** | 全端工程師 | Java • Vue.js • K8s • Azure |
+
+**開發項目**：網路銀行系統開發與優化
+
+---
+
+### 🏆 競賽榮譽
 
 | 🎖️ | 競賽名稱 | 獎項 | 年份 | 成就亮點 |
 |:---:|:---------|:----:|:----:|:---------|
-| 🥇 | **中研院資料科學漫步競賽** | 優選 + 最佳人氣獎 | 2024 | 創新 AI 應用，獲雙料大獎 |
-| 🥈 | **高公局國道智能競賽** | 亞軍 | 2024 | 智慧交通震波預警系統 |
+| 🥇 | 中研院資料科學漫步競賽 | 優選 + 最佳人氣獎 | 2024 | 創新 AI 應用，獲雙料大獎 |
+| 🥈 | 高公局國道智能競賽 | 亞軍 | 2024 | 智慧交通震波預警系統 |
 
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400">
+---
 
-</div>
+### 💪 核心能力
 
+<div align="center">
 
-</tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
+| 技能領域 | 熟練度 | 主要技術 |
+|:--------:|:------:|:--------|
+| 🧠 AI & 深度學習 | ![](https://img.shields.io/badge/95%25-brightgreen?style=flat-square) | TensorFlow • PyTorch • OpenCV |
+| 💻 全端開發 | ![](https://img.shields.io/badge/95%25-blue?style=flat-square) | Java • Vue.js • Next.js • FastAPI |
+| 📊 數據分析 | ![](https://img.shields.io/badge/90%25-yellow?style=flat-square) | Python • R • SAS • Power BI |
+| ☁️ 雲端架構 | ![](https://img.shields.io/badge/80%25-orange?style=flat-square) | Azure • Kubernetes • Docker |
 
 </div>
 
 ---
-"center">
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
-
-</div>
-
-</td>
-<td valign="top" width="50%">
-
-### 🌐 全端開發
+### 📬 聯繫方式
 
 <div align="center">
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+[![Gmail](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ws97109@gmail.com)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ws97109)
 
-</div>
+**📮 ws97109@gmail.com**
 
-### 🗄️ 資料庫與雲端
-
-<div align="center">
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
 </div>
 
 ---
 
-## 🚀 精選專案展示
+## 🎖️ 專業認證
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+### ☁️ AI 與雲端運算
+
+![AI-900](https://img.shields.io/badge/AI--900-Azure_AI_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure)
+![AWS AI](https://img.shields.io/badge/AWS-AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws)
+![AZ-900](https://img.shields.io/badge/AZ--900-Azure_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure)
+![ITS-AI](https://img.shields.io/badge/ITS-AI_Certification-00C4CC?style=for-the-badge)
+
+### 📊 數據分析與辦公軟體
+
+![SAS](https://img.shields.io/badge/SAS-Base_Certified-1E4C8F?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-Data_Analyst-F2C811?style=for-the-badge&logo=powerbi)
+![SPSS](https://img.shields.io/badge/SPSS-Statistics-052FAD?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoftexcel)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-Expert-B7472A?style=for-the-badge&logo=microsoftpowerpoint)
+
+</div>
+
+---
+
+## 🛠️ 技術工具箱
+
+<div align="center">
+
+### 程式語言
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,r" />
+
+### AI & 機器學習
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+
+### 全端開發
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,vue,nextjs" />
+
+### 資料庫 & 雲端
+
+<img src="https://skillicons.dev/icons?i=mysql,docker,kubernetes,azure,git" />
+
+</div>
+
+---
+
+## 🚀 精選專案
+
+<div align="center">
 
 ### 💡 從理論到實踐，用代碼改變世界
+
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 </div>
 
@@ -88,7 +135,7 @@
 
 > 首創將地震學震波理論應用於交通流分析，結合 MT-STNet 深度學習與傳統交通理論，實現毫秒級即時震波檢測與智慧預警
 
-#### 創新突破
+#### 🎯 創新突破
 
 **理論創新**
 - 首創將地震學震波傳播理論應用於交通分析
@@ -100,7 +147,7 @@
 - **後端**：FastAPI 高效能 API（響應時間 < 200ms）
 - **AI 核心**：TensorFlow + MT-STNet 深度學習引擎
 
-#### 核心技術
+#### 🔬 核心技術
 
 **MT-STNet 多任務神經網路**
 - 同步預測：交通流量、速度、密度
@@ -116,7 +163,7 @@
 - 學習道路幾何資料與即時數值
 - 提供情境化建議與決策支援
 
-#### 系統功能
+#### 🎮 系統功能
 
 **駕駛者服務**
 - 即時震波預警與到達時間預測
@@ -130,3 +177,315 @@
 - 預防性交通管制策略
 - 大屏數據中心
 
+#### 📊 性能指標
+
+<div align="center">
+
+| 指標 | 數值 | 說明 |
+|:----:|:----:|:-----|
+| ⚡ 震波檢測延遲 | **< 5 秒** | 毫秒級即時響應 |
+| 🚀 API 響應時間 | **< 200ms** | 高效能系統架構 |
+| 📈 流量預測 MAE | **12.3** veh/5min | 業界領先水準 |
+| 🚗 車速預測 MAE | **3.2** km/h | 精準預測能力 |
+| 🛣️ 密度預測 MAE | **8.9** veh/km | 可靠性極高 |
+
+</div>
+
+**🏆 競賽成果**：高公局國道智能競賽亞軍
+
+**🏷️ 技術標籤**：
+
+<div align="center">
+
+![時空預測](https://img.shields.io/badge/時空預測-FF6B6B?style=for-the-badge)
+![圖神經網路](https://img.shields.io/badge/圖神經網路-4ECDC4?style=for-the-badge)
+![震波檢測](https://img.shields.io/badge/震波檢測-95E1D3?style=for-the-badge)
+![智慧交通](https://img.shields.io/badge/智慧交通-F38181?style=for-the-badge)
+![深度學習](https://img.shields.io/badge/深度學習-AA96DA?style=for-the-badge)
+
+</div>
+
+<div align="center">
+
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+
+</div>
+
+---
+
+### 🎴 強化學習德州撲克 AI 系統
+
+[![GitHub](https://img.shields.io/badge/專案連結-181717?style=for-the-badge&logo=github)](https://github.com/ws97109/poker_ai)
+
+基於深度強化學習的智慧撲克 AI 系統，運用 DQN 演算法創建具備專業決策能力的虛擬對手，整合完整的訓練框架與網頁遊戲平台。
+
+#### 🎯 核心特色
+
+**深度 Q 學習 (DQN) 演算法**
+- Experience Replay 機制：儲存歷史經驗，打破數據相關性
+- Target Network 機制：穩定訓練過程，提高收斂性
+- 獎勵函數設計：結合遊戲結果、策略評估與風險管理
+
+**多人對戰系統**
+- 支援 2-7 個玩家的多人德州撲克對戰
+- 靈活的遊戲配置系統
+- 完整的遊戲邏輯實現
+
+**智慧探索策略**
+- ε-greedy 探索策略
+- 探索率從 0.9 自適應衰減至 0.1
+- 平衡探索與利用的動態調整
+
+**完整遊戲邏輯**
+- 牌型評分系統與識別
+- 下注輪次管理（翻牌前、翻牌、轉牌、河牌）
+- 分池機制與位置管理
+- 全押與邊池處理
+
+**訓練視覺化**
+- 勝率追蹤與趨勢分析
+- 獎勵變化曲線
+- 策略演化記錄
+- 探索率衰減監控
+
+**🔧 使用技術**：
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![DQN](https://img.shields.io/badge/Deep_Q_Learning-00D9FF?style=for-the-badge)
+![Game Theory](https://img.shields.io/badge/博弈理論-FFB6C1?style=for-the-badge)
+
+</div>
+
+<div align="center">
+
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+
+</div>
+
+---
+
+### 🎴 德州撲克 AI 決策輔助系統
+
+[![GitHub](https://img.shields.io/badge/專案連結-181717?style=for-the-badge&logo=github)](https://github.com/ws97109/poker_analyze)
+
+基於深度學習的德州撲克遊戲與 AI 決策系統，整合先進的影像識別技術與強化學習演算法。
+
+#### 🎯 核心特色
+
+**影像識別系統**
+- OpenCV 實作自動辨識牌面與籌碼
+- 即時圖像處理與特徵提取
+- 多角度識別適應
+
+**AI 決策引擎**
+- CNN 驅動的專業級 AI 對手
+- 深度強化學習策略分析
+- 即時策略調整與優化
+
+**對戰平台**
+- 完整的單挑德州撲克系統
+- 即時策略分析功能
+- 手牌強度、位置價值、籌碼深度評估
+
+**分析系統**
+- 提供使用者分析結果與策略建議
+- 全面的遊戲歷史記錄
+- 策略效果追蹤與決策回放
+
+**🔧 使用技術**：
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-FF6B6B?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+<div align="center">
+
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+
+</div>
+
+---
+
+### 📊 網路行為研究
+
+[![GitHub](https://img.shields.io/badge/專案連結-181717?style=for-the-badge&logo=github)](https://github.com/ws97109/Internet-behavior)
+
+深度探討不同群體網路使用模式與霸凌現象關聯的學術研究專案，運用多變量統計分析技術建立行為預測模型。
+
+#### 🔬 核心特色
+
+**實證研究**
+- 樣本規模：672 位參與者
+- 資料來源：Taiwan Communication Survey Database
+- 研究對象：不同年齡層與背景的網路使用者
+
+**統計分析方法**
+- 廣義關聯圖（GAP）：建立使用者行為分類模型
+- 主成分分析（PCA）：探討行為特徵與模式
+- 因素分析：降維與潛在因子識別
+- 典型相關分析（CCA）：建構因果關係模型
+
+**研究貢獻**
+- 網路素養教育政策制定
+- 反霸凌策略數據支持
+- 教育機構政策參考
+- 社會問題研究工具
+
+**🔧 使用技術**：
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Statistics](https://img.shields.io/badge/統計分析-FF6B6B?style=for-the-badge)
+![PCA](https://img.shields.io/badge/PCA-4ECDC4?style=for-the-badge)
+![Visualization](https://img.shields.io/badge/數據視覺化-FFD93D?style=for-the-badge)
+
+</div>
+
+<div align="center">
+
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+
+</div>
+
+---
+
+### 🎨 AI 圖像生成器
+
+[![GitHub](https://img.shields.io/badge/專案連結-181717?style=for-the-badge&logo=github)](https://github.com/ws97109/generate_images_web)
+
+基於 Stable Diffusion 的多模型圖像生成工具，支援中文輸入自動翻譯，提供直觀的 Web 介面。
+
+#### 🎯 核心特色
+
+**多模型整合**
+- MajicMIX Realistic v6：超寫實風格
+- Realistic Vision V5.1：精緻細節處理
+- Stable Diffusion v1.5：穩定基礎模型
+
+**智慧功能**
+- 中文提示詞自動翻譯
+- 參數自訂（種子、尺寸、步數）
+- 批量生成功能
+- Gradio 友善介面
+
+**🔧 使用技術**：
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-FF6B6B?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge)
+
+</div>
+
+<div align="center">
+
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+
+</div>
+
+---
+
+### 🌙 夢境分析與視覺化系統
+
+[![GitHub](https://img.shields.io/badge/專案連結-181717?style=for-the-badge&logo=github)](https://github.com/ws97109/dream-analyzer)
+
+整合多個 AI 模型的夢境分析系統，將夢境描述轉換成完整故事與視覺圖像，並提供心理分析。
+
+#### 🎯 核心特色
+
+**AI 模型整合**
+- Ollama Qwen:14b：智慧對話與故事生成
+- Stable Diffusion：夢境視覺化圖像生成
+- 反思能力：零散元素編織成完整敘事
+
+**系統功能**
+- 智慧故事生成與情節發展
+- 夢境視覺化自動配圖
+- 精神狀態與心理分析
+- 完整的 Web 系統架構
+
+**🔧 使用技術**：
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+![Qwen](https://img.shields.io/badge/Qwen-FF6B6B?style=for-the-badge)
+
+</div>
+
+---
+
+## 📈 GitHub 統計
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ws97109&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ws97109&layout=compact&langs_count=8&theme=radical" height="180"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ws97109&theme=radical" width="50%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ws97109&theme=radical&no-frame=true&row=1" width="80%"/>
+
+</div>
+
+---
+
+## 🎯 2026 發展藍圖
+
+| 時程 | 💡 技術精進 | 📚 學術貢獻 |
+|:----:|:-----------|:-----------|
+| **Q1** | 深化時空預測與圖神經網路研究 | 累積研究素材與文獻回顧 |
+| **Q2** | 雲端架構認證（Azure/AWS） | 撰寫並投稿學術論文 |
+| **Q3** | 探索 LLM 在交通領域應用 | 參與開源專案貢獻 |
+| **Q4** | 提升系統設計與架構能力 | 建立技術分享部落格 |
+
+---
+
+## 💭 理念
+
+<div align="center">
+
+> **"將學術研究與實際應用相結合"**
+>
+> **"致力於開發具有實用價值的智慧系統"**
+>
+> **"用 AI 技術創造更美好的未來"**
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 聯繫與合作
+
+[![Gmail](https://img.shields.io/badge/Email-ws97109@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ws97109@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@ws97109-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ws97109)
+
+---
+
+**⭐ 如果喜歡我的專案，歡迎給個 Star！⭐**
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ws97109&style=for-the-badge&color=blueviolet)
+![Followers](https://img.shields.io/github/followers/ws97109?style=for-the-badge&color=blue)
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
+
+<sub>最後更新：2025年1月 | Made with ❤️ by Lee, Sheng-Feng</sub>
+
+</div>
