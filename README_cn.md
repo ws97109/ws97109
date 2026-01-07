@@ -104,9 +104,9 @@
 
 ### 程式語言
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,r" />
+<img src="https://skillicons.dev/icons?i=python,java,js,r" />
 
-**Python • Java • JavaScript • TypeScript • R**
+**Python • Java • JavaScript  • R**
 
 ### AI & 機器學習
 
