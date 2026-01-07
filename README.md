@@ -104,9 +104,9 @@ Focus on AI, Deep Learning, and Data Science Research
 
 ### Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,r" />
+<img src="https://skillicons.dev/icons?i=python,java,js,r" />
 
-**Python • Java • JavaScript • TypeScript • R**
+**Python • Java • JavaScript • R**
 
 ### AI & Machine Learning
 
