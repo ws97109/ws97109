@@ -198,7 +198,6 @@
 - 預防性交通管制策略
 - 大屏數據中心
 
-
 **🏆 競賽成果**：高公局國道智能競賽亞軍
 
 **🏷️ Tech Stack**：
@@ -440,6 +439,62 @@
 
 </div>
 
+<div align="center">
+
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+
+</div>
+
+---
+
+### 🛒 YOLO 智慧無人商店系統
+
+[![GitHub](https://img.shields.io/badge/專案連結-181717?style=for-the-badge&logo=github)](https://github.com/ws97109/yolo-for-shop)
+
+基於 YOLOv8 與人臉識別技術的智慧無人商店結帳系統，實現商品自動識別、人臉登入與即時結帳功能。
+
+#### 🎯 核心特色
+
+**智慧商品識別**
+- YOLOv8 自定義模型訓練
+- 即時商品偵測（信心度 >= 0.8）
+- 自動框選標註商品資訊
+
+**人臉識別登入**
+- 128 維人臉特徵向量
+- 自動識別回訪顧客
+- 新用戶快速註冊流程
+
+**智慧購物車**
+- 商品自動加入購物車
+- 同商品自動累加數量
+- 即時計算總金額
+- 支援手動移除商品
+
+**自動結帳系統**
+- 一鍵完成結帳
+- 交易記錄永久保存
+- MongoDB 儲存交易數據
+- 管理後台查詢功能
+
+**系統架構**
+- 後端：FastAPI + MongoDB + WebSocket
+- 前端：HTML5/CSS3 + JavaScript
+- AI：YOLOv8 + face-recognition + OpenCV
+
+**🔧 Tech Stack**：
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logoColor=white)
+
+</div>
+
 ---
 
 ## 📈 GitHub Statistics
@@ -497,6 +552,5 @@
 ---
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
-
 
 </div>
