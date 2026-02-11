@@ -439,6 +439,62 @@ Deep learning-based Texas Hold'em game and AI decision system, integrating advan
 
 </div>
 
+<div align="center">
+
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+
+</div>
+
+---
+
+### 🛒 YOLO Smart Unmanned Store System
+
+[![GitHub](https://img.shields.io/badge/Project_Link-181717?style=for-the-badge&logo=github)](https://github.com/ws97109/yolo-for-shop)
+
+Smart unmanned store checkout system based on YOLOv8 and face recognition technology, achieving automatic product identification, facial login, and real-time checkout functionality.
+
+#### 🎯 Core Features
+
+**Intelligent Product Recognition**
+- Custom YOLOv8 model training
+- Real-time product detection (confidence >= 0.8)
+- Automatic bounding box and product information annotation
+
+**Face Recognition Login**
+- 128-dimensional face feature vectors
+- Automatic returning customer recognition
+- Fast new user registration process
+
+**Smart Shopping Cart**
+- Products automatically added to cart
+- Automatic quantity accumulation for same products
+- Real-time total amount calculation
+- Manual product removal support
+
+**Automatic Checkout System**
+- One-click checkout completion
+- Permanent transaction record storage
+- MongoDB transaction data storage
+- Admin backend query functionality
+
+**System Architecture**
+- Backend: FastAPI + MongoDB + WebSocket
+- Frontend: HTML5/CSS3 + JavaScript
+- AI: YOLOv8 + face-recognition + OpenCV
+
+**🔧 Tech Stack**:
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logoColor=white)
+
+</div>
+
 ---
 
 ## 📈 GitHub Statistics
@@ -496,6 +552,5 @@ Deep learning-based Texas Hold'em game and AI decision system, integrating advan
 ---
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
-
 
 </div>
