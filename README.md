@@ -508,7 +508,7 @@ Smart unmanned store checkout system based on YOLOv8 and face recognition techno
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ws97109&theme=radical" />
+<img src="https://streak-stats.demolab.com/?user=ws97109&theme=radical" />
 </p>
 
 <p align="center">
@@ -545,9 +545,6 @@ Smart unmanned store checkout system based on YOLOv8 and face recognition techno
 ---
 
 **⭐ If you like my projects, please give them a Star! ⭐**
-
-![Visitor Count](https://komarev.com/ghpvc/?username=ws97109&style=for-the-badge&color=blueviolet)
-![Followers](https://img.shields.io/github/followers/ws97109?style=for-the-badge&color=blue)
 
 ---
 
