@@ -500,14 +500,6 @@ Smart unmanned store checkout system based on YOLOv8 and face recognition techno
 ## 📈 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ws97109&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ws97109&layout=compact&langs_count=8&theme=radical" />
-</p>
-
-<p align="center">
 <img src="https://streak-stats.demolab.com/?user=ws97109&theme=radical" />
 </p>
 
