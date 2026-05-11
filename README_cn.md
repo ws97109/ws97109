@@ -500,15 +500,7 @@
 ## 📈 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ws97109&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ws97109&layout=compact&langs_count=8&theme=radical" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ws97109&theme=radical" />
+<img src="https://streak-stats.demolab.com/?user=ws97109&theme=radical" />
 </p>
 
 <p align="center">
@@ -545,9 +537,6 @@
 ---
 
 **⭐ 如果喜歡我的專案，歡迎給個 Star！⭐**
-
-![Visitor Count](https://komarev.com/ghpvc/?username=ws97109&style=for-the-badge&color=blueviolet)
-![Followers](https://img.shields.io/github/followers/ws97109?style=for-the-badge&color=blue)
 
 ---
 
